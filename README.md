@@ -1,1 +1,3 @@
-# PTNA
+PTNA: PBMC Transcriptional Network Analysis
+------------------------------------------
+
